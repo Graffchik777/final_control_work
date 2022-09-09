@@ -1,0 +1,15 @@
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\bin\Debug\net6.0\FinalControl.exe
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\bin\Debug\net6.0\FinalControl.deps.json
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\bin\Debug\net6.0\FinalControl.runtimeconfig.json
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\bin\Debug\net6.0\FinalControl.dll
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\bin\Debug\net6.0\FinalControl.pdb
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\obj\Debug\net6.0\FinalControl.csproj.AssemblyReference.cache
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\obj\Debug\net6.0\FinalControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\obj\Debug\net6.0\FinalControl.AssemblyInfoInputs.cache
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\obj\Debug\net6.0\FinalControl.AssemblyInfo.cs
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\obj\Debug\net6.0\FinalControl.csproj.CoreCompileInputs.cache
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\obj\Debug\net6.0\FinalControl.dll
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\obj\Debug\net6.0\refint\FinalControl.dll
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\obj\Debug\net6.0\FinalControl.pdb
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\obj\Debug\net6.0\FinalControl.genruntimeconfig.cache
+C:\Users\Elita\Desktop\GIT-FinalControl\FinalControl\obj\Debug\net6.0\ref\FinalControl.dll
